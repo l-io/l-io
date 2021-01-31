@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Languages
+    ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+    ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-c--sharp-blue)
 <!--
 **l-io/l-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
